@@ -1,18 +1,18 @@
 # Zepto E-Commerce SQL Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes Zepto e-commerce inventory data using MySQL.
 
 The analysis focuses on data cleaning, data quality checks, exploratory data analysis, and business insights using SQL.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - MySQL
 - SQL
 - MySQL Workbench
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 - Data quality checks
 - Data cleaning and transformation
@@ -23,7 +23,7 @@ The analysis focuses on data cleaning, data quality checks, exploratory data ana
 - Potential revenue analysis
 - Business insights
 
-## 📁 Dataset
+## Dataset
 
 The dataset contains Zepto e-commerce product and inventory information, including:
 
@@ -35,7 +35,7 @@ The dataset contains Zepto e-commerce product and inventory information, includi
 - Available quantity
 - Out-of-stock status
 
-## 🔍 Key Insights
+## Key Insights
 
 The analysis identifies:
 
@@ -48,10 +48,10 @@ The analysis identifies:
 
 > **Note:** Potential revenue is an estimated value calculated using current selling price × available quantity. It does not represent actual sales revenue.
 
-## 📂 Project Files
+## Project Files
 
 - `zepto ecommerce analysis.sql` — SQL queries for data cleaning, EDA, and business analysis.
 
-## 👤 Author
+## Author
 
 Aspiring Data Analyst | SQL | Python | Data Analytics
