@@ -37,14 +37,22 @@ The dataset contains Zepto e-commerce product and inventory information, includi
 
 ## Key Insights
 
-The analysis identifies:
+- Cooking Essentials and Munchies have the highest potential revenue at ₹3,37,131 each.
 
-- Categories with the highest potential revenue
-- Products with the highest selling prices
-- Products offering the highest discounts
-- Categories with higher inventory levels
-- Out-of-stock products
-- Products with low inventory availability
+- Personal Care and Paan Corner have potential revenue of ₹2,70,849 each.
+
+- Fruits & Vegetables offer the highest average discount at 15.46%.
+
+- Borges Extra Light Olive Oil has the highest selling price at ₹1,399 among the analyzed products.
+
+- Borges Extra Light Olive Oil also has the highest absolute discount amount of ₹1,201.
+
+- Dukes Waffy Orange, Chocolate and Strawberry Wafers have discounts of up to 51%.
+
+- Several products have very low inventory availability, indicating products that may require inventory attention.
+
+- Multiple products are currently out of stock and may require replenishment.
+
 
 > **Note:** Potential revenue is an estimated value calculated using current selling price × available quantity. It does not represent actual sales revenue.
 
